@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lyra.iml" filepath="$PROJECT_DIR$/.idea/Lyra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lyra-test/lyra-test.iml" filepath="$PROJECT_DIR$/lyra-test/lyra-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lyra-wrapper/lyra-wrapper.iml" filepath="$PROJECT_DIR$/lyra-wrapper/lyra-wrapper.iml" />
+    </modules>
+  </component>
+</project>
